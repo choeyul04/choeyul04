@@ -1,17 +1,12 @@
-
 ## <div align="center">Hello! I'm yul, Welcome my GitHub</div>
 
  - I'm Student developer, studying develop since 2022.
  - I have very very few skills, but I will work hard to improve in the future!
 
-  
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Frontend  
@@ -25,7 +20,6 @@
 </td><td valign="top" width="33%">
 
 
-
 ### Backend  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
@@ -34,7 +28,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
 
 
 ### DevOps  
@@ -59,7 +52,10 @@
 </a>
 <a href="https://dev.to/choeyul04" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://oceanic-smell-586.notion.site/choeyul04-s-notion-main-page-77e6df4225964b68b8e4344621fee2f4?pvs=4" target="_blank">
+<img src=notion.jpeg?&style=style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px; width: 20%;" />
+</a> 
 </div>  
   
 
@@ -70,26 +66,4 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=choeyul04&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
-
-
-## Recent Blog Posts  
   
-
-<br/>  
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=choeyul04&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
