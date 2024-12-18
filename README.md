@@ -1,18 +1,6 @@
 
-## <div align="center">Hello! I'm yul, Welcome my GitHub</div>  
-  
-
-- 🔭 I'm currently attending [Sungil-Information High School.](https://sungili-h.goesn.kr/sungili-h/main.do)  
-  
-
-- 🌱 I’m currently learning java and flutter.  
-  
-
-- 🍫 "I want to become a great developer."  
-  
-
-<br/>   
-
+# <div align="center">Hello! I'm yul, Welcome my GitHub</div>  
+ 
 
 
 ## My Skill Set  
