@@ -53,8 +53,9 @@
 <a href="https://dev.to/choeyul04" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
+<br>
 <a href="https://oceanic-smell-586.notion.site/choeyul04-s-notion-main-page-77e6df4225964b68b8e4344621fee2f4?pvs=4" target="_blank">
-<img src=notion.jpeg?&style=style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px; width: 20%;" />
+<img src=notion.jpeg?&style=style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px; width: 15%;" />
 </a> 
 </div>  
   
